@@ -1,4 +1,4 @@
-package com.tns.day1;
+package com.tns.ifet.day1;
 
 public class FirstProgram {
 
